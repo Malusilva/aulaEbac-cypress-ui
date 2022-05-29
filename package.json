@@ -17,7 +17,9 @@
     "url": "https://github.com/Malusilva/aulaEbac-cypress-ui/issues"
   },
   "homepage": "https://github.com/Malusilva/aulaEbac-cypress-ui#readme",
-  "devDependencies": {
-    "cypress": "^9.7.0"
+  "dependencies": {
+    "-": "^0.0.1",
+    "cypress": "^9.7.0",
+    "D": "^1.0.0"
   }
 }
