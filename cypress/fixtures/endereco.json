@@ -1,0 +1,45 @@
+
+[
+    {
+        "nome": "Marcia",
+        "sobrenome":"Luciano",
+        "empresa":"Casa e Vídeo",
+        "endereco":"Joaquim de Queiroz",
+        "numero":"223",
+        "pais":"Brasil",
+        "cidade":"Rio de Janeiro",
+        "estado":"Rio de Janeiro",
+        "cep":"21061710",
+        "telefone":"21923232323",
+        "email":"rsr.gmail.com"
+    },
+
+    {
+        "nome": "Marco",
+        "sobrenome":"silva",
+        "empresa":"Casa Show",
+        "endereco":"Joaquim de Melo",
+        "numero":"223",
+        "pais":"Brasil",
+        "cidade":"Sapé",
+        "estado":"Paraíba",
+        "cep":"28340000",
+        "telefone":"83923222323",
+        "email":"manu@gmail.com"
+    },
+
+    {
+        "nome": "Luiz",
+        "sobrenome":"Lucas",
+        "empresa":"Vida",
+        "endereco":"Vida Nova",
+        "numero":"223",
+        "pais":"Brasil",
+        "cidade":"João Pessoa",
+        "estado":"Paraíba",
+        "cep":"22222222",
+        "telefone":"83944444455",
+        "email":"lulu@gmail.com"
+    }
+
+]
